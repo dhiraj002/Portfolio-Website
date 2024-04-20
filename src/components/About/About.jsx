@@ -27,10 +27,10 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Shopify Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I have experience with setting up shopify stores and making
+                E-commerce websites
               </p>
             </div>
           </li>

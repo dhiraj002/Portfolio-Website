@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Portfolio WebSite",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "skills": ["Javascript", "React", "Css Modules"],
+    "demo": "",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Todo App",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["React", "Tawilwind Css", "localStorage"],
+    "demo": "https://dhiraj-todo-app.netlify.app/",
+    "source": "https://github.com/dhiraj002/TODO-APP"
   },
   {
-    "title": "Project C",
+    "title": "PassWord Genrator",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/dhiraj002/Password-Generator"
   }
 ]
