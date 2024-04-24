@@ -20,7 +20,7 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React"],
-    "demo": "https://dhiraj-password-genrator.netlify.app/clea",
+    "demo": "https://dhiraj-password-genrator.netlify.app/",
     "source": "https://github.com/dhiraj002/Password-Generator"
   }
 ]
